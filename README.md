@@ -1,6 +1,6 @@
 # Tip Calculator 
 
-## *Your name here*
+## Luke Kim
 
 **Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
@@ -23,6 +23,8 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/CAxa72O"  ><a href="//imgur.com/a/CAxa72O">Stanford CS194A HW1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
